@@ -11,7 +11,7 @@
 
 
 ## Main question of the thesis 
-## How do data-lineage and its derived capabilities assist in exploring and analyzing
-data relationships concerning complying with a GDPR article 17 request? 
+<b>How do data-lineage and its derived capabilities assist in exploring and analyzing
+data relationships concerning complying with a GDPR article 17 request?</b>
 
 
